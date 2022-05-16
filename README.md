@@ -10,4 +10,4 @@ convert your txt to docx (make sure your file dont have more 300 pages)
 
 translate in translate.google.com (upload in documents)
 
-download translated file, convert to txt, rename to "translit-translated.txt" in second.py, run
+download translated file, convert to txt, rename to "translit-translated.txt" in second.py
