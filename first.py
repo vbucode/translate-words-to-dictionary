@@ -12,7 +12,7 @@ with open("data.txt", "r") as file:
             xlist.append(line.replace("\n", ""))
 
 for i in xlist:
-    t - Translit(i.lower)
+    t = Translit(i.lower())
     tl = t.load()
     if len(ylist) == 0:
         xvar = "|" + tl + "-" + i.lower() + "|"
