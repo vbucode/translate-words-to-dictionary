@@ -11,10 +11,9 @@ with open("data.txt", "r") as file:
         else:
             xlist.append(line.replace("\n", ""))
 
-t = Translit()
-
 for i in xlist:
-    tl = t.load(i.lower())
+    t - Translit(i.lower)
+    tl = t.load()
     if len(ylist) == 0:
         xvar = "|" + tl + "-" + i.lower() + "|"
     else:
