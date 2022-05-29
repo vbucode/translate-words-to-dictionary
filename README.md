@@ -2,7 +2,7 @@
 
 automate make dictionary
 
-requirement module translit from python-apps repository
+requirement module translit from nlp repository
 
 if you have to translate some words to dictionary without using api from google.
 
